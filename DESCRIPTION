@@ -1,0 +1,12 @@
+Package: ppi
+Type: Package
+Title: Function to calculate the Plant Phenology Index (PPI)
+Version: 0.1.0
+Authors@R: person("Michael", "Matiu", email = "michaelmatiu@gmail.com",
+                  role = c("aut", "cre"))
+Description: Contains a function to calculate the PPI,
+    that is the Plant Phenology Index after Jin and Eklund 2014.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
