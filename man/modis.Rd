@@ -19,6 +19,7 @@ modis
 }
 \description{
 A dataset containing nadir-view reflectances
-from a pixel in the Bavarian Forest National Park (Germany).
+from a pixel in the Bavarian Forest National Park (Germany),
+which has long snow seasons each year.
 }
 \keyword{datasets}
